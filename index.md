@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ÎÄÕÂÁĞ±í
-tagline: ÔÆ¼ÆËã/´óÊı¾İ/mobile Ïà¹ØÎÄÕÂ
+title: æ–‡ç« åˆ—è¡¨
+tagline: äº‘è®¡ç®—/å¤§æ•°æ®/mobile ç›¸å…³æ–‡ç« 
 ---
 {% include JB/setup %}
 
@@ -15,6 +15,6 @@ tagline: ÔÆ¼ÆËã/´óÊı¾İ/mobile Ïà¹ØÎÄÕÂ
   {% endfor %}
 </ul>
 
-»¥¶¯Çë´ÁÁ´½Ó <a href="http://www.weibo.com/totheeast">³¯¶«×ß</a>¡£
+äº’åŠ¨è¯·æˆ³é“¾æ¥ <a href="http://www.weibo.com/totheeast">æœä¸œèµ°</a>ã€‚
 
 
