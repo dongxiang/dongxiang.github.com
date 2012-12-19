@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 朝东走
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
 ---
