@@ -6,7 +6,7 @@ tags : [scala]
 ---
 {% include JB/setup %}
 
-参见[FUTURES AND PROMISES - A NEW TAKE ON CONCURRENCY IN SCALA 2.10](http://v.youku.com/v_show/id_XNDk5MzU0MTMy.html) 和 [SIP-14 - Futures and Promises](http://docs.scala-lang.org/sips/pending/futures-promises.html)。
+参见[FUTURES AND PROMISES - A NEW TAKE ON CONCURRENCY IN SCALA 2.10](http://v.youku.com/v_show/id_XNDk5MzU0MTMy.html) 和 [SIP-14 - Futures and Promises](http://docs.scala-lang.org/sips/pending/futures-promises.html)。讲座的[slides链接](https://speakerdeck.com/heathermiller/futures-and-promises-in-scala-2-dot-10)。
 
 Scala 2.10实现了SIP-14,也算是对现状清理： 现在五法八门的Future轮子太多了，SIP-14里面就列举了一大堆。比如Scala自己的，Akka的，twitter的，scalaz的。
 
